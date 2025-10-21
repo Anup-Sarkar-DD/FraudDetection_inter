@@ -45,7 +45,7 @@ jupyter notebook fraud_detection.ipynb
 
 <hr />
 
-<h2>Links</h2>
+<!-- <h2>Links</h2>
 <ul>
   <li><a href="https://github.com/YourUsername/fraud-detection-project" target="_blank">Project GitHub Repository</a></li>
   <li><a href="https://your-portfolio-url.com" target="_blank">My Portfolio</a></li>
@@ -56,4 +56,4 @@ jupyter notebook fraud_detection.ipynb
 <p>Feel free to contribute or reach out for questions!</p>
 
 </body>
-</html>
+</html> -->
